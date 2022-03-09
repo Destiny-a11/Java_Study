@@ -1,0 +1,6 @@
+可以将文件放入一个包中，
+domain文件中是系统的父类
+service文件中负责系统服务，业务性的东西
+utils文件是工具包
+view文件负责显示，以及主菜单
+HouseRentApp负责测试
